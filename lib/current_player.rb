@@ -20,4 +20,4 @@ def current_player(board)
 end
 
 
-# one method can include another method, example: rb: 14 includes method from above
+# one method can include another method, example: rb: 14 includes method from above and counter(num) as well
