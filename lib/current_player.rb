@@ -18,3 +18,6 @@ def current_player(board)
     return "O"
   end
 end
+
+
+# one method can include another method, example: rb: 14 includes method from above
